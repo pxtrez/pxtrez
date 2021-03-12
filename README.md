@@ -23,6 +23,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pxtrez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pxtrez" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxtrez&show_icons=true&locale=en&layout=compact" alt="pxtrez" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pxtrez&show_icons=true&locale=en&layout=compact" alt="pxtrez" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pxtrez&show_icons=true&locale=en" alt="pxtrez" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pxtrez&show_icons=true&locale=en" alt="pxtrez" /></p>
