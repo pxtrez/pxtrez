@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxtrez&label=Profile%20views&color=0e75b6&style=flat" alt="pxtrez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxtrez" alt="pxtrez" /></a> </p>
-
 - 🔭 I’m currently working on [discord-script-plugins](https://github.com/pxtrez/discord-script-plugins)
 
 - 🌱 I’m currently learning **JavaScript, AutoHotkey**
-
-- 👯 I’m looking to collaborate on **...**
-
-- 🤝 I’m looking for help with **...**
-
-- 💬 Ask me about **everything**
 
 - 📫 How to reach me **cns.gox@gmail.com**
 
