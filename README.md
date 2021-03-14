@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, AutoHotkey**
 
-- 🔭 My betterFonts website [betterFonts](https:/betterfonts.pxtrez.repl.co)
+- 🔭 My betterFonts website [https:/betterfonts.pxtrez.repl.co](https:/betterfonts.pxtrez.repl.co)
 
 - 📫 How to reach me **cns.gox@gmail.com**
 
