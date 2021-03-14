@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/pxtrez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pxtrez" height="30" width="40" /></a>
 <a href="https://discord.gg/D4wtMYUFpp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="D4wtMYUFpp" height="30" width="40" /></a>
+<a href="/https://betterfonts.pxtrez.repl.co/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://betterfonts.pxtrez.repl.co/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxtrez&show_icons=true&locale=en&layout=compact" alt="pxtrez" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pxtrez&show_icons=true&locale=en" alt="pxtrez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxtrez&show_icons=true&locale=en" alt="pxtrez" /></p>
