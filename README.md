@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [discord-script-plugins](https://github.com/pxtrez/discord-script-plugins)
 
-- 🌱 I’m currently learning **JavaScript, AutoHotkey**
+- 🌱 I’m currently learning **JavaScript, AutoHotkey, Python**
 
 - 🔭 My betterFonts website [https:/betterfonts.pxtrez.repl.co](https:/betterfonts.pxtrez.repl.co)
 
