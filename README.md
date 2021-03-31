@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxtrez&label=Profile%20views&color=0e75b6&style=flat" alt="pxtrez" /> </p>
 
-[testAdvisor download](https:/testadvisor.pxtrez.repl.co) - TestAdvisor will help you to search informations. Very useful at exams.
+[my cheats for school](https://schoolcheats.pxtrez.repl.co/) - Site with my cheats ;p
 
 - 🔭 I’m currently working on [discord-script-plugins](https://github.com/pxtrez/discord-script-plugins)
 
