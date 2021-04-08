@@ -22,3 +22,4 @@
 <p><a href="https://www.buymeacoffee.com/pxtrez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pxtrez" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxtrez&show_icons=true&locale=en&layout=compact" alt="pxtrez" /></p>
+<iframe src="https://discord.com/widget?id=829791335309115442&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
