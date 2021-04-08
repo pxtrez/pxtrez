@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm pxtrez</h1>
-<h3 align="center">Mainly JavaScript and AutoHotkey developer.</h3>
+<h3 align="center">JavaScript and Python developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxtrez&label=Profile%20views&color=0e75b6&style=flat" alt="pxtrez" /> </p>
 
 [my cheats for school](https://schoolcheats.pxtrez.repl.co/) - Site with my cheats ;p
 
-- 🔭 I’m currently working on [discord-script-plugins](https://github.com/pxtrez/discord-script-plugins)
-
-- 🌱 I’m currently learning **JavaScript, AutoHotkey**
-
-- 🔭 My betterFonts website [betterFonts](https:/betterfonts.pxtrez.repl.co)
+- 🌱 I’m currently learning **JavaScript, Python, AutoHotkey, C++**
 
 - ⚡ Fun fact **I'm 13 ;p**
 
