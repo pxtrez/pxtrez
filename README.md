@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxtrez&label=Profile%20views&color=0e75b6&style=flat" alt="pxtrez" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python, AutoHotkey, C++**
+- 🌱 I’m currently learning **JavaScript, Python, C++**
 
 - ⚡ Fun fact **I'm 13 ;p**
 
