@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxtrez&label=Profile%20views&color=0e75b6&style=flat" alt="pxtrez" /> </p>
 
-[my cheats for school](https://schoolcheats.pxtrez.repl.co/) - Site with my cheats ;p
-
 - 🌱 I’m currently learning **JavaScript, Python, AutoHotkey, C++**
 
 - ⚡ Fun fact **I'm 13 ;p**
