@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm pxtrez</h1>
 <h3 align="center">JavaScript and Python developer.</h3>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxtrez&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,sway,ESP8266_RTOS_SDK,DefinitelyTyped,laboratory,dotfiles&layout=compact" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxtrez&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,sway,ESP8266_RTOS_SDK,DefinitelyTyped,laboratory,dotfiles&layout=compact" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxtrez&label=Profile%20views&color=0e75b6&style=flat" alt="pxtrez" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Python, C++**
