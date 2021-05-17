@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
+![](https://komarev.com/ghpvc/?username=pxtrez&color=brightgreen)
+
 <p align="left">
 <details>
   <summary>☘ Discord </summary><br>
