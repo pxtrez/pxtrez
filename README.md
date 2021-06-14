@@ -43,3 +43,4 @@
   yes my readme is crap
 </details>
 </p>
+<iframe src="https://discord.com/widget?id=806501704702754846&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
