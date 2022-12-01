@@ -2,7 +2,7 @@
 interface IPxtrez {
   name: string;
   age: number;
-  hasBrain?: boolean;
+  brainCells?: number;
 }
 ```
 
