@@ -6,7 +6,7 @@ interface IPxtrez {
 }
 ```
 
-I'm 15 years old (full stack?) developer. My (prolly) greatest achievement is creating cheats for many e-learning platforms, packed into one service called [Cheat Network](https://cheatnetwork.eu).
+I'm 15 years old (full stack?) developer. My (prolly) greatest achievement is creating tools for many e-learning platforms, packed into one service called [Cheat Network](https://cheatnetwork.eu).
 
 I'm into coding since I was about 13 years old. During this time, I became fluent in JavaScript and TypeScript, became familiar with Python, and tried Go, Java and C++.
 
