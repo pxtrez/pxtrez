@@ -6,11 +6,10 @@ interface IPxtrez {
 }
 ```
 
-[Cheat Network](https://cheatnetwork.eu) CEO
-
 ---
 
-You can contact me via discord: [pxtrez#0559](https://discord.com/users/441244042525671424)
+ceo of [cheatnetwork.eu](https://cheatnetwork.eu) <br/>
+You can contact me via discord: [_pxtrez](https://discord.com/users/486771441392549898)
 
 <br/>
 
